@@ -200,9 +200,9 @@ import riden from '@/assets/riden.jpg'
                 //用来操作弹出框
                 labelPosition:'left',
                 dialogVisible: false,
+              AvatarUrl: "https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png",
 
 
-                AvatarUrl: "https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png",
 
                 userInfo: {
                     nickName: 'DefaultAdmin',
