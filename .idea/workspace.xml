@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="098c89ba-991e-4e41-b39f-74fb6802abe6" name="Default Changelist" comment="initial2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="front" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PSTaCkMcRzw3YfZUAL3TtHPgA0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/avatar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11517\Desktop\FinalProject\PG1\font\pg1f\src\assets\avatar" />
+      <recent name="C:\Users\11517\Desktop\FinalProject\PG1\font\pg1f\public\avatars" />
+      <recent name="C:\Users\11517\Desktop\FinalProject\PG1\font\pg1f\public\data" />
+      <recent name="C:\Users\11517\Desktop\FinalProject\PG1\font\pg1f\src" />
+      <recent name="C:\Users\11517\Desktop\FinalProject\PG1\font\pg1f\avatars" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="098c89ba-991e-4e41-b39f-74fb6802abe6" name="Default Changelist" comment="" />
+      <created>1683449543524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683449543524</updated>
+      <workItem from="1683449546772" duration="1681000" />
+      <workItem from="1683470614639" duration="71000" />
+      <workItem from="1683477256665" duration="1012000" />
+      <workItem from="1683480076102" duration="3984000" />
+      <workItem from="1683536375964" duration="890000" />
+      <workItem from="1689560330180" duration="10000" />
+      <workItem from="1689560351181" duration="8000" />
+      <workItem from="1694547804854" duration="26000" />
+      <workItem from="1694547843139" duration="53000" />
+      <workItem from="1706441958060" duration="13000" />
+      <workItem from="1706441983972" duration="1803000" />
+      <workItem from="1706461582952" duration="27039000" />
+      <workItem from="1706543354446" duration="211000" />
+      <workItem from="1706544105856" duration="595000" />
+      <workItem from="1707669074028" duration="603000" />
+      <workItem from="1707674652274" duration="99000" />
+      <workItem from="1707675059170" duration="1314000" />
+      <workItem from="1707774788664" duration="1348000" />
+      <workItem from="1707784482107" duration="4585000" />
+      <workItem from="1707840010039" duration="12115000" />
+      <workItem from="1707904787930" duration="15503000" />
+      <workItem from="1707950385630" duration="9049000" />
+      <workItem from="1707991347986" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1707990931326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707990931326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+</project>
